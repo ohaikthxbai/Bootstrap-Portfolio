@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-Modifying a portfolio to become responsive with the use of Bootstrap.
+# Responsive-Portfolio
+Modifying a portfolio to make it responsive without the use of Bootstrap
