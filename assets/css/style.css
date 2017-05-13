@@ -77,6 +77,8 @@ h3 {
   background: #4aaaa5;
 }
 
+
+
 nav {
   float: right;
   margin-top: 25px;
@@ -196,6 +198,10 @@ h3,
   height: auto;
   margin-top: 10px;
   margin-right: 25px;
+}
+
+.img-circle {
+  /* hmmm */
 }
 
 /* contact page */
